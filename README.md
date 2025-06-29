@@ -48,5 +48,5 @@ Adjustments to the pause per character parameter are automatically written to `s
 ---
 
 Primed listening as a technique was devloped by Matt vs Japan in his immersion Dojo community. Credit to Alex Smith for writing the first impelementation of this script. 
-Join the immersion dojo here: https://www.skool.com/mattvsjapan
+Join the immersion dojo here: [https://www.skool.com/mattvsjapan](https://mvj.link/dojo)
 
